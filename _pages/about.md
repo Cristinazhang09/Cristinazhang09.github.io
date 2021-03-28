@@ -5,6 +5,6 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+I'm a student data scientist, experienced in Python, R, and hand-on experience in SQL. I am familiar with Scikit-Learn, Seaborn, Git, Pandas, Tableau, mySQL, Matplotlib, Numpy and Scipy. I am also trained in Machine learning, Natural Language Processing, Time series analysis. 
 
-Etc, etc, etc
+
