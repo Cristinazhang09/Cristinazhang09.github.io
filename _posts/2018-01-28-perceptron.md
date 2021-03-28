@@ -1,7 +1,7 @@
 ---
-title: "Data Wrangling Project"
+title: "Car Accidents"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: [data science]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
@@ -61,3 +61,13 @@ Here's some math:
 $$z=x+y$$
 
 You can also put it inline $$z=x+y$$
+
+---
+title: "Data Minging"
+date: 2018-01-28
+tags: [data mining]
+header:
+  image: "/images/perceptron/percept.jpg"
+excerpt: "Data Wrangling, Data Science, Messy Data"
+mathjax: "true"
+---
