@@ -9,7 +9,7 @@ mathjax: "true"
 ---
 
 
-The purpose of my project is to use real world house information to predict the house price. My dataset is collected by scrapping the house information from Zillow.com, the dataset includes information like the number of bedrooms, home type, year built, school rating and so on. All the houses are in Omaha metro.This project uses Multiple Linear Regression, Support Vector Regression and Random Forest Regression. These three models was compared using mean squared error.
+The purpose of my project is to use real world house information to predict the house price. My dataset is collected by scrapping the house information from Zillow.com. This project uses Multiple Linear Regression, Support Vector Regression and Random Forest Regression. These three models was compared using mean squared error.
 
 # Demo-Preview
 
