@@ -3,7 +3,7 @@ title: "Omaha Housing Prices"
 date: 2018-01-28
 tags: [data science]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/john-fornander-tVzyDSV84w8-unsplash.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
