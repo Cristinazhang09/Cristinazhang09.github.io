@@ -9,7 +9,7 @@ mathjax: "true"
 ---
 
 
-The purpose of my project is to use real world house information to predict the house price. My dataset is collected by scrapping the house information from Zillow.com. This project uses Multiple Linear Regression, Support Vector Regression and Random Forest Regression. These three models was compared using mean squared error and R-squared value.
+The purpose of my project is to use real world house information to predict the house prices. My dataset is collected by scrapping the house information from Zillow.com. This project uses Multiple Linear Regression, Support Vector Regression and Random Forest Regression. The performance of three models were compared using metrics of mean squared error and R-squared value.
 
 ## Installation
 The code requires Python versions of 3.* and general libraries.
@@ -40,7 +40,7 @@ It is noticed the model performance is not quite good at the current stage, and 
 * More features could be collected to complement the current dataset. It would also be interesting to increase the size of the dataset by collecting house information from east coast and west coast and see the determining factors of housing price vary with the geographical information.
 
 ## Licensing, Authors, Acknowledgements
-The data used for analysisi is from [Zillow](https://www.zillow.com/)
+The data used for analysis is from [Zillow](https://www.zillow.com/)
 
 
 This project repository can be found [here](https://github.com/Cristinazhang09/Jingru_projects/tree/main/Omaha%20Housing%20Price).
