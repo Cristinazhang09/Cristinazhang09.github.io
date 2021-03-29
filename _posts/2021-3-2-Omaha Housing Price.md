@@ -13,7 +13,7 @@ The purpose of my project is to use real world house information to predict the 
 
 ## Table of Contents
 * [Installation](#Installation)
-* [Project Motivation and Description](#Project Motivation and Description)
+* [Project Motivation and Description](#Motivation)
 * [Results](#Results)
 * [Limitations](#Limitations)
 * [Licensing, Authors, Acknowledgements](#licensing)
