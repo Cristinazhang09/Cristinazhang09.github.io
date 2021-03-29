@@ -43,4 +43,4 @@ It is noticed the model performance is not quite good at the current stage, and 
 The data used for analysisi is from [Zillow](https://www.zillow.com/)
 
 
-This project repository can be found [here](https://github.com/Cristinazhang09/Jingru_projects/tree/main/Omaha%20Housing%20Price)
+This project repository can be found [here](https://github.com/Cristinazhang09/Jingru_projects/tree/main/Omaha%20Housing%20Price).
