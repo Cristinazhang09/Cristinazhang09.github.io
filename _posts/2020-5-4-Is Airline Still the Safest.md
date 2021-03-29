@@ -8,4 +8,4 @@ excerpt: "Data Wrangling, Data Science"
 mathjax: "true"
 ---
 
-This project repository can be found [here](https://github.com/Cristinazhang09/Jingru_projects/tree/main/Boston%20Neighborhood%20Dataset%20Preparation).
+This project repository can be found [here](https://github.com/Cristinazhang09/Jingru_projects/tree/main/Is%20Airlines%20Still%20the%20Safest).
