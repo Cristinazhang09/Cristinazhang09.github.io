@@ -8,4 +8,4 @@ excerpt: "Data Wrangling, Data Science"
 mathjax: "true"
 ---
 
-This project repository can be found [here](https://github.com/Cristinazhang09/Jingru_projects/tree/main/Data%20Mining.
+This project repository can be found [here](https://github.com/Cristinazhang09/Jingru_projects/tree/main/Data%20Mining).
