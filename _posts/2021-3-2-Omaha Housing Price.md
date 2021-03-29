@@ -11,13 +11,6 @@ mathjax: "true"
 
 The purpose of my project is to use real world house information to predict the house price. My dataset is collected by scrapping the house information from Zillow.com. This project uses Multiple Linear Regression, Support Vector Regression and Random Forest Regression. These three models was compared using mean squared error and R-squared value.
 
-## Table of Contents
-* [Installation](#Installation)
-* [Project Motivation and Description](#Motivation)
-* [Results](#Results)
-* [Limitations](#Limitations)
-* [Licensing, Authors, Acknowledgements](#licensing)
-
 ## Installation
 The code requires Python versions of 3.* and general libraries.
 
