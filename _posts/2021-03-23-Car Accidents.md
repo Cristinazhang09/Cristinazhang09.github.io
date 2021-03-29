@@ -3,8 +3,8 @@ title: "Car Accidents"
 date: 2018-01-28
 tags: [data science]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+  image: "/images/jasper-geys-NyRe1Mj1pm4-unsplash.jpg"
+excerpt: "Data Wrangling, Data Science"
 mathjax: "true"
 ---
 
