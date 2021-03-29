@@ -35,10 +35,11 @@ In addition to evaluate how these three models can predict housing price, I used
 * Compared there different models, Radom Forest model performs best.
 
 ## Limitations
-Tt is noticed the model performance is not quite good at the current stage, and I think there are multiple reasons for this:
+It is noticed the model performance is not quite good at the current stage, and I think there are multiple reasons for this:
 * The model hyper parameters have not been optimized yet, grid search or randomized search with cross validation could be performed in the future to identify the best hyper parameters for the models.
 * More features could be collected to complement the current dataset. It would also be interesting to increase the size of the dataset by collecting house information from east coast and west coast and see the determining factors of housing price vary with the geographical information.
 
 ## Licensing, Authors, Acknowledgements
 The data used for analysisi is from [Zillow](https://www.zillow.com/)
 
+This project repository can be found [here](https://github.com/Cristinazhang09/Jingru_projects/tree/main/Omaha%20Housing%20Price)
