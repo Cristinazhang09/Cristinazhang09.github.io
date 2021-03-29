@@ -17,7 +17,11 @@ The code requires Python versions of 3.* and general libraries.
 According car accidents statistics, there are nearly 6 million car accidents in the United States every year. Approximately 1.25 million people die in road crashed each year, in addition, 20-50 million people are injured, many of them even have long-term disabilities. Due to car accidents, many people lose properties, health, especially, people lose their loved ones. Thus, I determine to analyze a countywide car accident dataset. I calculated the covariance and Spearman's correlation between independent variables and dependent variable. p-Test was run to confirm the relationship between indepdent variable and dependent variable. Multiple linear regression was performed, small eigenvalue was detected, suggesting strong multicollinearity between variables.  
 
 ## Results
-*
+* Most accidents were occurred round 75, not frozen and snow days.
+* Most accidents were happened in pressure 28in, 29in, and wind speed from 2mph to 6mph, not strong wind.
+* Most accidents were occurred in daytime, and visibility 10 mile.
+* Then I made a PMF of visibility for severity 2 and severity 3, I can not see obviously different between them. So did CDF of visibility. All weather-related variables have a little correlation of severity. 
+* For hypothesis test, I got the result visibility have a correlation of severity and it is significant.  
 
 ## Limitations
 I think analyzing climate should be limited in a state or nearby state, different states have different climate even though there are in the same season, the analysis cannot get precise result.
