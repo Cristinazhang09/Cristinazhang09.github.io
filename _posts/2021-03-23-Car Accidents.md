@@ -29,5 +29,5 @@ The data used for analysisi is from:
 
 
 
-This project repository can be found [here](https://github.com/Cristinazhang09/Jingru_projects/tree/main/Car%20Accidents)
+This project repository can be found [here](https://github.com/Cristinazhang09/Jingru_projects/tree/main/Car%20Accidents).
 
