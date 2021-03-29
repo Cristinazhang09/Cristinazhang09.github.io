@@ -1,6 +1,6 @@
 ---
 title: "Omaha Housing Prices"
-date: 2018-01-28
+date: 2021-03-28
 tags: [data science]
 header:
   image: "/images/john-fornander-tVzyDSV84w8-unsplash.jpg"
