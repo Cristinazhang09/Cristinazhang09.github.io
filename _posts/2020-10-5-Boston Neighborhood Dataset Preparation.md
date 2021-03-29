@@ -3,7 +3,7 @@ title: "Boston Neighborhood Dataset Preparation"
 date: 2018-01-28
 tags: [data science]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/hakan-aldrin-NSnXEpIl6xs-unsplash.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
