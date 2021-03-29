@@ -3,7 +3,7 @@ title: "Weather Data Scraping"
 date: 2018-01-28
 tags: [data science]
 header:
-  image: "/images/katie-az-1rljxwk0Ivc-unsplash.jpg"
+  image: "/images/hakan-aldrin-NSnXEpIl6xs-unsplash.jpg"
 excerpt: "Data Wrangling, Data Science"
 mathjax: "true"
 ---
