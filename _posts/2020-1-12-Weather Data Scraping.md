@@ -1,6 +1,6 @@
 ---
 title: "Weather Data Scraping"
-date: 2020-01-28
+date: 2020-01-12
 tags: [data science]
 header:
   image: "/images/hakan-aldrin-NSnXEpIl6xs-unsplash.jpg"
