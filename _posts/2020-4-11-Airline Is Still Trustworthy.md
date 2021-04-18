@@ -1,6 +1,6 @@
 ---
 title: "Airline Is Still Trustworthy"
-date: 2020-03-11
+date: 2020-04-11
 tags: [data science]
 header:
   image: "/images/hakan-aldrin-NSnXEpIl6xs-unsplash.jpg"
