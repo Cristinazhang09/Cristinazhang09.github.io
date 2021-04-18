@@ -1,6 +1,6 @@
 ---
 title: "Wine Quality"
-date: 2020-06-04
+date: 2020-03-04
 tags: [data science]
 header:
   image: "/images/hakan-aldrin-NSnXEpIl6xs-unsplash.jpg"
