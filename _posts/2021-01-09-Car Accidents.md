@@ -1,6 +1,6 @@
 ---
 title: "Car Accidents"
-date: 2021-03-23
+date: 2021-01-09
 tags: [data science]
 header:
   image: "/images/jasper-geys-NyRe1Mj1pm4-unsplash.jpg"
