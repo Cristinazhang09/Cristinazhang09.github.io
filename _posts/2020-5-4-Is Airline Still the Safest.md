@@ -1,6 +1,6 @@
 ---
 title: "Is Airline Still the Safest?"
-date: 2018-01-28
+date: 2020-05-04
 tags: [data science]
 header:
   image: "/images/hakan-aldrin-NSnXEpIl6xs-unsplash.jpg"
