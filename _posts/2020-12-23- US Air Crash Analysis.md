@@ -1,6 +1,6 @@
 ---
 title: "US Air Crash Analysis"
-date: 2018-01-28
+date: 2020-12-23
 tags: [data science]
 header:
   image: "/images/hakan-aldrin-NSnXEpIl6xs-unsplash.jpg"
