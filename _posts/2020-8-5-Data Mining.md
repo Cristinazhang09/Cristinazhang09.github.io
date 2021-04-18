@@ -1,6 +1,6 @@
 ---
 title: "Data Mining"
-date: 2018-01-28
+date: 2018-08-05
 tags: [data mining]
 header:
   image: "/images/hakan-aldrin-NSnXEpIl6xs-unsplash.jpg"
