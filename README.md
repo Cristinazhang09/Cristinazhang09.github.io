@@ -7,12 +7,12 @@ and Scipy. I am also trained in Machine learning, Natural Language Processing an
 
 ## My Projects
 
-### Data Mining(https://github.com/Cristinazhang09/Jingru_projects/tree/main/Data%20Mining)
+### Data Mining (https://github.com/Cristinazhang09/Jingru_projects/tree/main/Data%20Mining)
 
 Implemented the apriori algorithm for frequent item set mining and association rule learning.
 
 ### Statistic Analysis and Machine Learning
-- Omaha Housing Price(https://github.com/Cristinazhang09/Jingru_projects/tree/main/Omaha%20Housing%20Price): 
+- Omaha Housing Price (https://github.com/Cristinazhang09/Jingru_projects/tree/main/Omaha%20Housing%20Price): 
 
 Scraped the zillow house data in Omaha-Lincoln Metro using BeautifulSoup and requests, applied linear regression, support vector machine and random forest regression for the house price, identified factors like roof type and school rate as determing factors for house price.
 
@@ -20,26 +20,26 @@ Scraped the zillow house data in Omaha-Lincoln Metro using BeautifulSoup and req
 
 Put together a dataset using Boston crime data, scraped boston house data from zillow, and neighborhood data using the foursquare API. 
 
-- Weather Data Scraping(https://github.com/Cristinazhang09/Jingru_projects/tree/main/Weather%20Data%20Scraping): 
+- Weather Data Scraping (https://github.com/Cristinazhang09/Jingru_projects/tree/main/Weather%20Data%20Scraping): 
 
 Using requests, implemented a program to interact with the OpenWeatherMap service and print out the weather information for the city based ZipCode or city name.
 
-- Merchandise Category Clustering(https://github.com/Cristinazhang09/Jingru_projects/tree/main/Merchandise%20Category%20Clustering): 
+- Merchandise Category Clustering (https://github.com/Cristinazhang09/Jingru_projects/tree/main/Merchandise%20Category%20Clustering): 
 
 Used Bert sentence embedding, performed clustering analysis of online product category data.
 
-- Car Accidents(https://github.com/Cristinazhang09/Jingru_projects/tree/main/Car%20Accidents): 
+- Car Accidents (https://github.com/Cristinazhang09/Jingru_projects/tree/main/Car%20Accidents): 
 
 Peroformed hypothesis test on car accident data, identified the correlation climatic factors and accident severity with 95% confidence.
 
 
 ### R
-- Wine Quality(https://github.com/Cristinazhang09/Jingru_projects/tree/main/Wine%20Quality): 
+- Wine Quality (https://github.com/Cristinazhang09/Jingru_projects/tree/main/Wine%20Quality): 
 
 Analyzed the determing facrot of Wine Quality using R through linear regression. 
 
 ### Tableau
-- US Air Crash Analysis(https://github.com/Cristinazhang09/Jingru_projects/tree/main/US%20Air%20Crash%20Analysis): 
+- US Air Crash Analysis (https://github.com/Cristinazhang09/Jingru_projects/tree/main/US%20Air%20Crash%20Analysis): 
 
 Analyzed US air crash using Tableau.
 
