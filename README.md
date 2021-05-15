@@ -29,7 +29,7 @@ and Scipy. I am also trained in Machine learning, Natural Language Processing an
 
 - [Is Airline Still Trustworthy](https://github.com/Cristinazhang09/Jingru_projects/tree/main/Airline%20Is%20Still%20Trustworthy): Using Tableau, presented different data and graphs to convey that airline is still trustworthy for traveller.
 
-- [Is Airline Still the Safest]https://github.com/Cristinazhang09/Jingru_projects/tree/main/Is%20Airlines%20Still%20the%20Safest): Using Tableau, presented different data and graphs to persuade that airline is still the safest mean of transportation in United States. 
+- [Is Airline Still the Safest](https://github.com/Cristinazhang09/Jingru_projects/tree/main/Is%20Airlines%20Still%20the%20Safest): Using Tableau, presented different data and graphs to persuade that airline is still the safest mean of transportation in United States. 
 
 
 ## License
