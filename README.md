@@ -21,7 +21,7 @@ and Scipy. I am also trained in Machine learning, Natural Language Processing an
 
 - [Car Accidents](https://github.com/Cristinazhang09/Jingru_projects/tree/main/Car%20Accidents): Peroformed hypothesis test on car accident data, identified the correlation climatic factors and accident severity with 95% confidence.
 
-- [Strike Prediction](https://github.com/Cristinazhang09/Jingru_projects/tree/main/Car%20Accidents): Peroformed hypothesis test on car accident data, identified the correlation climatic factors and accident severity with 95% confidence.
+- [Strike Prediction](https://github.com/Cristinazhang09/Stroke-Prediction): Used Logistic regression, Random Forest Classifier and xgboost classifier to predicte the strike.
 
 
 ### R
