@@ -1,5 +1,5 @@
 ---
-title: "Airline Is Still Trustworthy"
+title: "Stroke Prediction"
 date: 2020-04-11
 tags: [data science]
 header:
